@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dcl-y.github.io/epidemiology-evidence-based-medicine-2026/sitemap.xml
